@@ -1,2 +1,3 @@
-# Opengl3-TD
-TD dirigés d'Opengl IMAC3
+# glTF Viewer Tutorial Code
+
+This is the code repository for https://gltf-viewer-tutorial.gitlab.io/.
